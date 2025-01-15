@@ -71,6 +71,29 @@ Este projeto, parte da **Trilha Formação em Dados**, teve como objetivo desenv
 - Adicionar recursos de interatividade, como tooltips mais ricas.
 - Explorar a integração com outras fontes de dados.
 
+## 🚀 Capura de Telas
+
+- Imagem da página 1 do dasboard
+![pg01_final](https://github.com/user-attachments/assets/57cb02db-b910-4193-8e9f-2532f58f2f55)
+
+- Imagem da página 2 do dasboard
+![pg02_final](https://github.com/user-attachments/assets/94a85f5d-e67b-4553-9dc1-ce4853e7cfbc)
+
+- Imagem do Modelo de Relacionamento
+![modelo_de_dados](https://github.com/user-attachments/assets/61c6c36c-8568-4f1f-bb35-ce0bf08f84cd)
+
+- Imagem da tabela Dim_Imovel
+![Dim_Imovel](https://github.com/user-attachments/assets/989ffe0e-7d12-401d-9d4d-4a3af083e44e)
+
+- Imagem da tabela Dim_Localizacao
+![Dim_Localizacao](https://github.com/user-attachments/assets/cd459364-dc86-4c57-b767-2522a8484f32)
+
+- Imagem da tabela Dim_Vendedor
+![Dim_Vendedor](https://github.com/user-attachments/assets/765758bd-96cc-40fd-b93f-0eb67263993a)
+
+- Imagem da tabela Fato_Vendas
+![Fato_Vendas](https://github.com/user-attachments/assets/2941c150-41d1-44ed-86df-7f73338e4654)
+
 
 ---
 
